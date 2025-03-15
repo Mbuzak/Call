@@ -1,6 +1,18 @@
 # Call
 Various algorighms in C
 
+**Supported OS:** Linux
+
+## Installation
+After download this repository execute following commands:
+```
+mkdir build && cd build
+cmake -DCMAKE_BUILD_TYPE=Debug ..
+```
+
+## Usage
+For build and test, run script `./build.sh`
+
 ## Roadmap
 - [ ] Linked list
 - [ ] Hash table
