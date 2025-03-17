@@ -14,10 +14,10 @@ cmake -DCMAKE_BUILD_TYPE=Debug ..
 For build and test, run script `./build.sh`
 
 ## Roadmap
-- [ ] Linked list
+- [x] Linked list
 - [ ] Hash table
 - [ ] Huffmann coding
-- [ ] Quicksort
+- [x] Quicksort
 - [ ] Binary search tree
 
 Optional:
