@@ -18,7 +18,7 @@ For build and test, run script `./build.sh`
 - [ ] Hash table
 - [ ] Huffmann coding
 - [x] Quicksort
-- [ ] Binary search tree
+- [x] Binary search tree
 
 Optional:
 - [ ] Radixsort
